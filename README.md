@@ -35,3 +35,9 @@ jobs:
           # Path to SARIF file relative to the root of the repository
           sarif_file: cfsec.sarif         
 ```
+
+## Example
+
+The [cfsec example project](https://github.com/cfsec/cfsec-exanple-project) shows an example of the output here
+
+![image](https://user-images.githubusercontent.com/3049157/142617644-07d4d725-b880-4da6-8249-38400ad413de.png)
