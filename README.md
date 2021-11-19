@@ -1,4 +1,4 @@
-[![GitHub All Releases](https://img.shields.io/github/downloads/cfsec/cfsec-sarif-action/total)](https://github.com/cfsec/cfsec-sarif-action/releases)
+[![GitHub All Releases](https://img.shields.io/github/downloads/aquasecurity/cfsec-sarif-action/total)](https://github.com/aquasecurity/cfsec-sarif-action/releases)
 # cfsec-sarif-action
 
 ## Description
