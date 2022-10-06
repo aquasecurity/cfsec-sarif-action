@@ -38,6 +38,6 @@ jobs:
 
 ## Example
 
-The [cfsec example project](https://github.com/cfsec/cfsec-exanple-project) shows an example of the output here
+The [cfsec example project](https://github.com/cfsec/cfsec-example-project) shows an example of the output here
 
 ![image](https://user-images.githubusercontent.com/3049157/142617644-07d4d725-b880-4da6-8249-38400ad413de.png)
